@@ -102,6 +102,7 @@
     }
   },
   "dependencies": {
-    "imagekit": "^4.1.4"
+    "imagekit": "^4.1.4",
+    "postcss-preset-env": "^9.3.0"
   }
 }
